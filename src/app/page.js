@@ -8,7 +8,7 @@ console.log(styles.sedtua);
 function ClubTitle() {
   return (
     <div className={styles.mainTitle}>
-      <img src="/sanarae_logo.png" className={styles.logo} />
+      <img src="/sedtua_logo.png" className={styles.logo} />
     </div>
   );
 }
@@ -34,7 +34,7 @@ function Home() {
           className={`${styles.button} ${styles.viabtn}`}
           onClick={() => router.push("/sanarae")}
         >
-          사나래 알아보기
+          SED-TUA 알아보기
         </button>
       </div>
     </div>

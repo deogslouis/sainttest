@@ -121,14 +121,14 @@ export const questions = [
   },
   {
     scale: "I_E",
-    question: "어디서 봉사 활동을 하고 싶은가요?",
+    question: "다음 교내 활동중에 더 하고 싶은건 무엇인가요?",
     answers: [
       {
-        answer: "사회 단체나 지역 사회에서",
+        answer: "글로벌 버디",
         weight: -1,
       },
       {
-        answer: "성당 내 봉사 단체에서",
+        answer: "짝선배 짝후배",
         weight: 1,
       },
     ],
