@@ -41,7 +41,7 @@ export default function StartPoint() {
       </div>
       <div className={styles.saintImage}>
         <img
-          src="/img/saintStartPoint.png"
+          src="/img/SaintStartPoint.png"
           width="248"
           className={styles.image}
         />
