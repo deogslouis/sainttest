@@ -93,7 +93,7 @@ export const questions = [
   },
   {
     scale: "V_D",
-    question: "어려운 상황에 놓인 사람을 도울 때 더 중요하다고 생각하는 것은 무엇인가요?",
+    question: "어려운 상황에 놓인 사람을 도울 때 더 중요하다고 생각하는 것은 무엇인가요? ",
     answers: [
       {
         answer: "지금 당장 필요한 도움을 직접 전하는 것",
