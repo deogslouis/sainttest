@@ -105,14 +105,6 @@ export default function ResultPage() {
           // className={isCanvasVisible ? "" : "hidden"} //debug
           style={{ display: isCanvasVisible ? "block" : "none" }}
         />
-        <button
-          onClick={() => generateImage(userName)}
-          className={styles.button}
-        >
-          {" "}
-          <img src="/instagram.svg" className={styles.instagramIcon} />{" "}
-          인스타그램으로 공유하기{" "}
-        </button>
       </div>
     </div>
   );
