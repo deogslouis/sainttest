@@ -39,14 +39,6 @@ export default function StartPoint() {
       <div className={styles.title}>
         나와 닮은 <span className={styles.blue}>가톨릭 위인</span> 찾기
       </div>
-      <div className={styles.saintImage}>
-        <img
-          src=".\public\img\SaintStartPoint.png"
-          width="248"
-          className={styles.image}
-        />
-        <div className={styles.whiteBlur}></div>
-      </div>
       <div className={styles.nameAlert}>당신의 이름을 입력해주세요</div>
       <input
         type="text"
