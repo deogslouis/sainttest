@@ -9,7 +9,7 @@ export const caution = [
 export const questions = [
   {
     scale: "I_E",
-    question: "봉사활동을 시작한다면 어디부터 해보고 싶나요?",
+    question: "봉사활동을 시작한다면 어디부터 해보고 싶나요? ",
     answers: [
       {
         answer: "새로운 지역이나 더 넓은 세상에서 해보고 싶다",
