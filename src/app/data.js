@@ -9,168 +9,168 @@ export const caution = [
 export const questions = [
   {
     scale: "I_E",
-    question: "봉사활동을 할 때에 선호하는 곳은?",
+    question: "봉사활동을 시작한다면 어디부터 해보고 싶나요?",
     answers: [
       {
-        answer: "다른 지역이나 해외부터",
+        answer: "새로운 지역이나 더 넓은 세상에서 해보고 싶다",
         weight: -1,
       },
       {
-        answer: "내 주변에 있는 곳부터",
+        answer: "내가 속한 곳이나 가까운 주변부터 시작하고 싶다",
         weight: 1,
       },
     ],
   },
   {
     scale: "C_R",
-    question: "이론은 당신에게 어떤 의미인가요?",
+    question: "이론이나 지식을 배울 때 더 중요하게 느끼는 것은 무엇인가요?",
     answers: [
       {
-        answer: "그 이론을 어떻게 실생활에 응용하는지가 중요하다",
+        answer: "실제 상황에 어떻게 써먹을 수 있는지가 중요하다",
         weight: -1,
       },
       {
-        answer: "이론 그 자체로도 의미가 있다",
+        answer: "이해하고 배우는 과정 자체에도 충분한 의미가 있다",
         weight: 1,
       },
     ],
   },
   {
     scale: "V_D",
-    question: "내가 팀장이라면, 어떤 역할일까요?",
+    question: "내가 팀을 맡게 된다면 어떤 방식에 더 가깝나요?",
     answers: [
       {
-        answer: "함께 일을 나누면서 팀원들을 격려로 이끈다",
+        answer: "함께 움직이며 필요한 일을 직접 도와주는 편이다",
         weight: 1,
       },
       {
-        answer: "리더쉽과 카리스마로 팀원들을 이끈다",
+        answer: "방향을 제시하고 사람들을 이끄는 편이다",
         weight: -1,
       },
     ],
   },
   {
     scale: "C_R",
-    question: "전통에 대해해 어떻게 생각하나요?",
+    question: "전통이나 익숙한 방식에 대해 나는 어떻게 생각하나요?",
     answers: [
       {
-        answer: "우리의 정체성이며 지켜야할 사회적 약속이다",
+        answer: "오래 이어진 방식에는 지켜야 할 가치가 있다고 본다",
         weight: 1,
       },
       {
-        answer: "시대에 맞게 유연하게 변화할 수 있다",
+        answer: "상황에 맞게 바뀌고 새롭게 해석될 수 있다고 본다",
         weight: -1,
       },
     ],
   },
   {
     scale: "I_E",
-    question: "누군가에게 감사를 표하고자 합니다. 어떤 방식으로 표현하시나요?",
+    question: "새로운 활동을 할 때 나는 어떤 쪽이 더 끌리나요?",
     answers: [
       {
-        answer: "선물 등 간접적인 방법으로",
-        weight: 1,
-      },
-      {
-        answer: "밥 한 끼 사는 식으로",
-        weight: -1,
-      },
-    ],
-  },
-  {
-    scale: "V_D",
-    question: "동아리에 새내기가 들어왔습니다. 어떻게 대할까요?",
-    answers: [
-      {
-        answer: "동아리 활동에 대한 팁을 나눈다",
+        answer: "낯선 사람과 새로운 환경을 만날 수 있는 활동",
         weight: -1,
       },
       {
-        answer: "필요한 것을 직접 도와준다",
+        answer: "익숙한 사람들과 관계를 깊게 만들 수 있는 활동",
         weight: 1,
       },
     ],
   },
   {
     scale: "V_D",
-    question: "가난한 곳에는 어떤 봉사가 필요할까요?",
+    question: "새로운 사람이 모임에 들어왔을 때 나는 어떻게 돕는 편인가요?",
     answers: [
       {
-        answer: "직접 찾아가서 물자를 지원한다",
+        answer: "적응할 수 있도록 팁과 방향을 알려준다",
+        weight: -1,
+      },
+      {
+        answer: "필요한 것을 바로 챙기며 직접 도와준다",
+        weight: 1,
+      },
+    ],
+  },
+  {
+    scale: "V_D",
+    question: "어려운 상황에 놓인 사람을 도울 때 더 중요하다고 생각하는 것은 무엇인가요?",
+    answers: [
+      {
+        answer: "지금 당장 필요한 도움을 직접 전하는 것",
         weight: 1,
       },
       {
-        answer: "재산 자체보다 재산을 불리는 교육이 중요하다",
+        answer: "스스로 해결할 힘을 기를 수 있게 방법을 알려주는 것",
         weight: -1,
       },
     ],
   },
   {
     scale: "S_F",
-    question: "공동체에 문제가 닥쳤을 때 나는 먼저",
+    question: "공동체에 문제가 생기면 나는 먼저 어떻게 하나요?",
     answers: [
       {
-        answer: "문제에 대해 분석한다",
+        answer: "혼자 먼저 정리하고 상황의 핵심을 생각해본다",
         weight: -1,
       },
       {
-        answer: "토의와 회의 시간을 잡는다",
+        answer: "사람들과 이야기하며 의견을 나눌 자리를 만든다",
         weight: 1,
       },
     ],
   },
   {
     scale: "I_E",
-    question: "다음 교내 활동중에 더 하고 싶은건 무엇인가요?",
+    question: "다음 중 더 해보고 싶은 활동은 무엇인가요?",
     answers: [
       {
-        answer: "글로벌 버디",
+        answer: "새로운 사람들과 교류하며 시야를 넓히는 활동",
         weight: -1,
       },
       {
-        answer: "짝선배 짝후배",
+        answer: "가까운 사람들과 오래 관계를 쌓아가는 활동",
         weight: 1,
       },
     ],
   },
   {
     scale: "S_F",
-    question: "생활에서 가장 중요하게 생각하는 것은 무엇인가요?",
+    question: "생활에서 나에게 더 중요한 시간은 무엇인가요?",
     answers: [
       {
-        answer: "다른 사람과 함께하는 것",
+        answer: "사람들과 함께 어울리고 이야기하는 시간",
         weight: 1,
       },
       {
-        answer: "나 혼자만의 시간",
+        answer: "혼자 생각을 정리하고 쉬는 시간",
         weight: -1,
       },
     ],
   },
   {
     scale: "S_F",
-    question: "내면의 성장을 위해 어떤 활동을 선호하시나요?",
+    question: "내면의 성장을 위해 더 선호하는 활동은 무엇인가요?",
     answers: [
       {
-        answer: "개인 독서를 통한 사색",
+        answer: "혼자 읽고 생각을 깊게 정리하는 활동",
         weight: -1,
       },
       {
-        answer: "독서 모임을 통한 토론",
+        answer: "여럿이 함께 이야기하며 생각을 넓히는 활동",
         weight: 1,
       },
     ],
   },
   {
     scale: "C_R",
-    question: "교육 방식은 어떠해야 한다고 생각하시나요?",
+    question: "배움의 방식은 어떠해야 한다고 생각하나요?",
     answers: [
       {
-        answer: "새로운 방법론을 적용한 수업",
+        answer: "새로운 방식과 다양한 시도가 더 필요하다고 본다",
         weight: -1,
       },
       {
-        answer: "우리에게 익숙한 강의식",
+        answer: "검증되고 익숙한 방식이 더 안정적이라고 본다",
         weight: 1,
       },
     ],
