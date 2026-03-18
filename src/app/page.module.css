@@ -30,11 +30,11 @@
 }
 
 .cross {
-  margin-top: 1.5vh;
-  height: 30vh;
+  margin-top: 0.5vh;
+  height: 25vh;
   object-fit: contain;
   width: auto;
-  margin-bottom: 1.5vh;
+  margin-bottom: 0.5vh;
 }
 
 .buttonSet {
